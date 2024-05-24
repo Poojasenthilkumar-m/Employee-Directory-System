@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+<employee>
+<id>1</id>
+<name>John Doe</name>
+<department>IT</department>
+<job_title>Software Engineer</job_title>
+<email>john@example.com</email>
+<phone>123-456-7890</phone>
+<office_location>Building A, Room 101</office_location>
+</employee>
+<employee>
+<id>2</id>
+<name>Jane Smith</name>
+<department>HR</department>
+<job_title>HR Manager</job_title>
+<email>jane@example.com</email>
+<phone>987-654-3210</phone>
+ 
+<office_location>Building B, Room 201</office_location>
+</employee>
+<employee>
+<id>3</id>
+<name>Ram Santh</name>
+<department>AI</department>
+<job_title>AI Engineer</job_title>
+<email>ram@example.com</email>
+<phone>945-234-3217</phone>
+<office_location>Building E, Room 132</office_location>
+</employee><employee>
+<id>4</id>
+<name>Joshap Smit</name>
+<department>ML</department>
+<job_title>ML Engineer</job_title>
+<email>joshap@example.com</email>
+<phone>987-654-5678</phone>
+<office_location>Building C, Room 261</office_location>
+</employee><employee>
+<id>5</id>
+<name>Shem Santh</name>
+<department>DS</department>
+<job_title>Data scientist</job_title>
+<email>Shem@example.com</email>
+<phone>887-654-3210</phone>
+<office_location>Building F, Room 501</office_location>
+</employee><employee>
+<id>6</id>
+<name>Sundhar Sid</name>
+<department>DA</department>
+<job_title>Data Analysist</job_title>
+<email>sundhar@example.com</email>
+<phone>997-654-4510</phone>
+<office_location>Building D, Room 204</office_location>
+ 
+</employee>
+<employee>
+<id>7</id>
+<name>Surathkishan</name>
+<department>IT</department>
+<job_title>Programmer</job_title>
+<email>surath@example.com</email>
+<phone>432-654-4510</phone>
+<office_location>Building T, Room 504</office_location>
+</employee>
+<employee>
+<id>8</id>
+<name>Rakisin</name>
+<department>AI</department>
+<job_title>Artificial Intelligent</job_title>
+<email>rakisin@example.com</email>
+<phone>997-654-5410</phone>
+<office_location>Building U, Room 804</office_location>
+</employee><employee>
+<id>9</id>
+<name>Manishanithu</name>
+<department>IT</department>
+<job_title>IT Marketing</job_title>
+<email>manisha@example.com</email>
+<phone>568-654-4876</phone>
+<office_location>Building Y, Room 704</office_location>
+</employee><employee>
+<id>10</id>
+<name>Jeevitha</name>
+<department>DM</department>
+<job_title>Data Mining</job_title>
+<email>jeevitha@example.com</email>
+<phone>565-654-4510</phone>
+<office_location>Building a, Room 274</office_location>
+ 
+</employee>
+</employees>
+
